@@ -1,4 +1,4 @@
-📘 Perfil de la Asignatura Procesamiento de Lenguajes<br>
+📘 Perfil de la Asignatura SPLN<br>
 
 Nombre: Lucas González Puente
 
